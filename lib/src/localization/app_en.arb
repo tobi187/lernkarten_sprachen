@@ -1,0 +1,6 @@
+{
+  "appTitle": "lern_karten",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

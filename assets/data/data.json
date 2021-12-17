@@ -1,0 +1,21 @@
+{
+
+    "languages": [
+        {
+            "name": "german dutch",
+            "code": "GER-NED",
+            "sentences": [
+                {
+                    "id": 1,
+                    "ger": "du bist dumm",
+                    "ned": "dö böst dömm"
+                },
+                {
+                    "id": 2,
+                    "ger": "Down",
+                    "ned": "syndrom"
+                }
+            ]
+        }
+    ]
+}
